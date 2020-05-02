@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftGraphicsCore",
+        "repositoryURL": "https://github.com/benspratling4/SwiftGraphicsCore.git",
+        "state": {
+          "branch": null,
+          "revision": "487cd82b5275b12b9fa6eb29f3bb7935dd2c63b8",
+          "version": "0.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
